@@ -1,0 +1,14 @@
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\Platzi2.exe
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\Platzi2.deps.json
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\Platzi2.runtimeconfig.json
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\Platzi2.runtimeconfig.dev.json
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\Platzi2.dll
+C:\Users\jpimentel\documents\Platzi2\bin\Release\netcoreapp2.2\win10-x64\Platzi2.pdb
+C:\Users\jpimentel\documents\Platzi2\obj\Release\netcoreapp2.2\win10-x64\Platzi2.csprojAssemblyReference.cache
+C:\Users\jpimentel\documents\Platzi2\obj\Release\netcoreapp2.2\win10-x64\Platzi2.csproj.CoreCompileInputs.cache
+C:\Users\jpimentel\documents\Platzi2\obj\Release\netcoreapp2.2\win10-x64\Platzi2.AssemblyInfoInputs.cache
+C:\Users\jpimentel\documents\Platzi2\obj\Release\netcoreapp2.2\win10-x64\Platzi2.AssemblyInfo.cs
+C:\Users\jpimentel\documents\Platzi2\obj\Release\netcoreapp2.2\win10-x64\Platzi2.dll
+C:\Users\jpimentel\documents\Platzi2\obj\Release\netcoreapp2.2\win10-x64\Platzi2.pdb

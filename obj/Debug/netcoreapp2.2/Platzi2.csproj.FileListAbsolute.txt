@@ -1,0 +1,11 @@
+C:\Users\jpimentel\documents\Platzi2\bin\Debug\netcoreapp2.2\Platzi2.deps.json
+C:\Users\jpimentel\documents\Platzi2\bin\Debug\netcoreapp2.2\Platzi2.runtimeconfig.json
+C:\Users\jpimentel\documents\Platzi2\bin\Debug\netcoreapp2.2\Platzi2.runtimeconfig.dev.json
+C:\Users\jpimentel\documents\Platzi2\bin\Debug\netcoreapp2.2\Platzi2.dll
+C:\Users\jpimentel\documents\Platzi2\bin\Debug\netcoreapp2.2\Platzi2.pdb
+C:\Users\jpimentel\documents\Platzi2\obj\Debug\netcoreapp2.2\Platzi2.csprojAssemblyReference.cache
+C:\Users\jpimentel\documents\Platzi2\obj\Debug\netcoreapp2.2\Platzi2.csproj.CoreCompileInputs.cache
+C:\Users\jpimentel\documents\Platzi2\obj\Debug\netcoreapp2.2\Platzi2.AssemblyInfoInputs.cache
+C:\Users\jpimentel\documents\Platzi2\obj\Debug\netcoreapp2.2\Platzi2.AssemblyInfo.cs
+C:\Users\jpimentel\documents\Platzi2\obj\Debug\netcoreapp2.2\Platzi2.dll
+C:\Users\jpimentel\documents\Platzi2\obj\Debug\netcoreapp2.2\Platzi2.pdb
