@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace coreEscuela.Entidades
 {
     class Escuela
@@ -10,12 +12,13 @@ namespace coreEscuela.Entidades
       public string Ciudad {get; set;}   
       public TiposEscuela TipoEscuela {get;set;}
 
-      public Curso[] cursos {get;set;}
+      public List<Curso> cursos {get;set;}
 
       public Escuela(string nombre, int año) => (Nombre,AñoDeCreacion) =(nombre,año);
 
       public Escuela(string nombre,int año,TiposEscuela tipos, string pais="", string ciudad="")
       {
+          //Asignación por tuplas
           (Nombre,AñoDeCreacion)=(nombre,año);
           Pais=Pais;
           Ciudad=ciudad;

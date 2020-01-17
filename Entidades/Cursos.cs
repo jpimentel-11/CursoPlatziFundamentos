@@ -11,6 +11,7 @@ namespace coreEscuela.Entidades
 
         public Curso()
         {
+            //Genera un id unico para cada uno de los cursos
            UniqueId=Guid.NewGuid().ToString();
         }
         
