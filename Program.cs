@@ -1,5 +1,6 @@
 ﻿using System;
 using coreEscuela.Entidades;
+using static System.Console;
 
 namespace Platzi2
 {
@@ -12,23 +13,39 @@ namespace Platzi2
             var escuela =new Escuela("Platzi Academy",1997,TiposEscuela.primaria,ciudad:"Culiacán",pais:"México");
             escuela.TipoEscuela= TiposEscuela.primaria;
             
-
-            var arregloCursos =new Curso[3];
-            arregloCursos[0]= new Curso(){
-                Nombre="101"
+           escuela.cursos = new Curso[]{
+                new Curso(){Nombre="101"},
+                new Curso(){Nombre="201"},
+                new Curso(){Nombre="301"}
             };
 
-            arregloCursos[1] =new Curso(){
-                Nombre="201"
-            };
-
-            arregloCursos[2]=new Curso(){
-                Nombre="301"
-            };
+          /* Curso[] arregloCursos = {
+                new Curso(){Nombre="101"},
+                new Curso(){Nombre="201"},
+                new Curso(){Nombre="301"}
+            };*/
 
             Console.WriteLine(escuela);
-            ImprimirCursos(arregloCursos);
-           
+           // escuela.cursos=null;
+            ImprimirCursosEscuela(escuela);
+            //ImprimirCursos(arregloCursos);
+            
+        }
+
+        private static void ImprimirCursosEscuela(Escuela escuela)
+        {
+           WriteLine("==========================");
+           WriteLine("Cursos de la escuela");
+           WriteLine("==========================");
+           if (escuela!=null & escuela.cursos==null)
+           {
+                foreach(var curso in escuela.cursos)
+                {
+                    WriteLine("Nombre: "+curso.Nombre + ", Id: "+curso.UniqueId);
+                }
+
+           }
+          
         }
 
         private static void ImprimirCursos(Curso[] arregloCursos)
@@ -41,12 +58,12 @@ namespace Platzi2
             }*/
 
 
-            System.Console.WriteLine("=================FOR EACH===============");
+          /*  System.Console.WriteLine("=================FOR EACH===============");
             foreach(var curso in arregloCursos)
             {
                 Console.WriteLine("Nombre: "+curso.Nombre + ", Id: "+curso.UniqueId);
 
-            }
+            }*/
             
            /* var contador=0;
             //Recorriendo arreglo con While
